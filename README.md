@@ -1,5 +1,5 @@
 # StoryApp
- Application to share story with people around you
+ Application to share story with people around you - from "Intermediate Android" by Dicoding
 
  **This application implement**
  1. CustomView: to help user validate email and password input 
